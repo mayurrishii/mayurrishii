@@ -18,11 +18,12 @@ I'm a developer who enjoys turning caffeine into code and bugs into features (or
  🧰 Things I work with
 
 ```text
-Languages     : Java | Python | JavaScript | C++
+Languages     : Python | JavaScript | C++
 Frontend      : React | HTML | CSS
-Backend       : Node.js | Spring Boot
-Tools         : Git | Docker | Linux
-Database      : MySQL | MongoDB
+Backend       : Django | Node.js
+Tools         : Git | Linux 
+Database      : MySQL | MongoDB | PostgreSQL
+What I know but you don't (Also useless) : Unity Engine, Unity 3D, Blender, Unreal Engine(Used it once), XR dev
 ```
 
 ---
@@ -39,9 +40,8 @@ Database      : MySQL | MongoDB
 
  🎯 Things I find interesting
 
-* 🤖 Artificial Intelligence
-* ☁️ Cloud Computing
 * 🏗️ System Design
+* 🎮 Game dev and XR dev
 * 🔓 Open Source
 * 🧩 Solving problems that shouldn't have taken three hours
 
@@ -51,13 +51,12 @@ Database      : MySQL | MongoDB
 
 * I say "this should be easy" far too often.
 * I have more project ideas than completed projects.
-* I enjoy learning things simply because they exist.
 * If you're reading this far... you're definitely stalking.
 
 ---
 
  Before you leave...
 
-If you came here looking for secrets, all you'll find is code, unfinished side projects, and questionable commit messages.
+If you came here looking for secrets, all you'll find is random repos, unfinished side projects, and questionable commit messages.
 
 But hey, thanks for stopping by. 😄
