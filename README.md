@@ -4,14 +4,14 @@ Well, since you're already here, I guess I should introduce myself.
 
 ## Hi, I'm Mayur. 👋
 
-I'm a developer who enjoys turning caffeine into code and bugs into features (or at least trying to).
+I'm a tool that impersonates a human.
 
 ### 🤔 What am I doing these days?
 
-* 🔭 Building random things that somehow turn into projects.
-* 🌱 Learning new technologies because one programming language is never enough.
-* 💡 Exploring AI, system design, and anything that looks interesting at 2 AM.
-* 🚀 Trying to make cool stuff and occasionally pushing code that actually works.
+* 🔭 Building myself from sctach again.
+* 🌱 Learning a lot of stuff (like really a lot of stuff).
+* 💡 Exploring a new place with new people.
+* 🚀 Trying to be as cool as possible and very resourceful at the same time.
 
 ---
 
