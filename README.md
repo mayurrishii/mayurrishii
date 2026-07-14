@@ -93,7 +93,7 @@
   <img src="https://raw.githubusercontent.com/mayurrishii/mayurrishii/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> **Note:** The snake animation won't appear until you set up the GitHub Action described below.
+> 
 
 ---
 
