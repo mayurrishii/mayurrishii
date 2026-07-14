@@ -8,7 +8,7 @@ I'm a tool that impersonates a human.
 
 ### 🤔 What am I doing these days?
 
-* 🔭 Building myself from sctach again.
+* 🔭 Building myself from scratch again.
 * 🌱 Learning a lot of stuff (like really a lot of stuff).
 * 💡 Exploring a new place with new people.
 * 🚀 Trying to be as cool as possible and very resourceful at the same time.
